@@ -15,7 +15,7 @@ import androidx.core.view.WindowInsetsCompat;
 public class MainActivity extends AppCompatActivity {
 
     EditText username;
-    EditText password;//hh
+    EditText password;
     Button loginButten;
 
 
